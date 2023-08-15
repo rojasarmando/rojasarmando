@@ -21,6 +21,8 @@
 
 # ⌨️ Languages, Frameworks, DB....
 
+<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/python.svg" />
+
 <img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/php.svg" />
 
 <img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/laravel.svg" />
@@ -33,15 +35,11 @@
 
 <img align="left" alt="nodejs" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/nodejs.svg" />
 
-<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/python.svg" />
-
 <img align="left" alt="html5" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/html.svg" />
 
 <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/css.svg" />
 
 <img align="left" alt="java" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/java.svg" />
-
-<img align="left" alt="ruby on rails" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/ruby_on_rails.svg" />
 
 <img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/mysql.svg" />
 
