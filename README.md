@@ -1,46 +1,20 @@
-![Logo SVG](https://i.ibb.co/W2HpB90/AR.gif)
+# Hi! my name is Armando Rojas 👋
 
-<br> <br> <br>
-
-# I am Armando Rojas 👋
+## I'm Systems Engineer and Full Stack Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-rojasarmando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rojasarmando/)](https://www.linkedin.com/in/rojasarmando/)
 [![Github Badge](https://img.shields.io/badge/-rojasarmando-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rojasarmando/rojasarmando)](https://github.com/rojasarmando/rojasarmando)
 [![Gmail Badge](https://img.shields.io/badge/-armando.develop-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:armando.develop@gmail.com)](mailto:armando.develop@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-dev_armando-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dev-armando/rojasarmando)](https://github.com/dev-armando/dev-armando)
 
-<br>
-<br>
+## 🌏 [Website](https://rojasarmando.com)
 
-# ⌨️ Languages, Frameworks, DB....
+###  [https://rojasarmando.com](https://rojasarmando.com)
 
-<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/python.svg" />
 
-<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/php.svg" />
 
-<img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/laravel.svg" />
 
-<img align="left" alt="nodejs" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/nodejs.svg" />
+[![Logo SVG](https://i.ibb.co/W2HpB90/AR.gif)](https://rojasarmando.com)
 
-<img align="left" alt="angular" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/angular.svg" />
-
-<img align="left" alt="vue" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/vue.svg" />
-
-<img align="left" alt="ionic" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/ionic.svg" />
-
-<img align="left" alt="html5" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/html.svg" />
-
-<img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/css.svg" />
-
-<img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/mysql.svg" />
-
-<img align="left" alt="postgresql" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/postgresql.svg" />
-
-<img align="left" alt="mongodb" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/mongodb.svg" />
-
-<img align="left" alt="vscode" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/vscode.svg" />
-
-<br><br><br><br><br>
 
 # Contributions
 
@@ -50,13 +24,37 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojasarmando&count_private=true&theme=dark&layout=compact&langs_count=100&hide=hack,makefile,shell,batchfile,xslt,tsql,scss)](https://github.com/rojasarmando)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojasarmando&count_private=true&theme=dark&layout=compact&langs_count=100&hide=hack,makefile,shell,batchfile,xslt,tsql,scss,css,html,coffeescript)](https://github.com/rojasarmando)
 
-<!--[website]: -->
 
-[linkedin]: https://www.linkedin.com/in/rojasarmando
+## 🌐 My Skills
 
-<br>
-<br>
 
-# 🌏 [Portfolio](https://github.com/rojasarmando/)
+
+<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/python.svg"  style="margin-right: 35px;margin-bottom:20px"  />
+
+<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/php.svg" style="margin-right: 35px;margin-bottom:20px"  />
+
+<img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/laravel.svg" style="margin-right: 35px; margin-bottom:20px" 
+ />
+
+<img align="left" alt="nodejs" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/nodejs.svg" style="margin-right: 35px;margin-bottom:20px"  />
+
+<img align="left" alt="angular" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/angular.svg" style="margin-right: 35px;margin-bottom:20px" 
+ />
+
+<img align="left" alt="vue" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/vue.svg" style="margin-right: 35px;margin-bottom:20px"  />
+
+<img align="left" alt="ionic" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/ionic.svg" style="margin-right: 35px;margin-bottom:20px"  />
+
+<img align="left" alt="html5" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/html.svg" style="margin-right: 35px;margin-bottom:20px"   />
+
+<img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/css.svg" style="margin-right: 35px;margin-bottom:20px" />
+
+<img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/mysql.svg" style="margin-right: 35px;margin-bottom:20px" />
+
+<img align="left" alt="postgresql" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/postgresql.svg" style="margin-right: 35px;margin-bottom:20px" />
+
+<img align="left" alt="mongodb" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/mongodb.svg" style="margin-right: 35px;margin-bottom:20px" 
+ />
+
