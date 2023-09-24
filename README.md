@@ -31,30 +31,30 @@
 
 
 
-<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/python.svg"  style="margin-right: 35px;margin-bottom:20px"  />
+<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/python.svg"  style="margin-right: 35px;margin-bottom:20px"  />
 
-<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/php.svg" style="margin-right: 35px;margin-bottom:20px"  />
+<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/php.svg" style="margin-right: 35px;margin-bottom:20px"  />
 
-<img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/laravel.svg" style="margin-right: 35px; margin-bottom:20px" 
+<img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/laravel.svg" style="margin-right: 35px; margin-bottom:20px" 
  />
 
-<img align="left" alt="nodejs" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/nodejs.svg" style="margin-right: 35px;margin-bottom:20px"  />
+<img align="left" alt="nodejs" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/nodejs.svg" style="margin-right: 35px;margin-bottom:20px"  />
 
-<img align="left" alt="angular" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/angular.svg" style="margin-right: 35px;margin-bottom:20px" 
+<img align="left" alt="angular" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/angular.svg" style="margin-right: 35px;margin-bottom:20px" 
  />
 
-<img align="left" alt="vue" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/vue.svg" style="margin-right: 35px;margin-bottom:20px"  />
+<img align="left" alt="vue" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/vue.svg" style="margin-right: 35px;margin-bottom:20px"  />
 
-<img align="left" alt="ionic" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/ionic.svg" style="margin-right: 35px;margin-bottom:20px"  />
+<img align="left" alt="ionic" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/ionic.svg" style="margin-right: 35px;margin-bottom:20px"  />
 
-<img align="left" alt="html5" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/html.svg" style="margin-right: 35px;margin-bottom:20px"   />
+<img align="left" alt="html5" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/html.svg" style="margin-right: 35px;margin-bottom:20px"   />
 
-<img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/css.svg" style="margin-right: 35px;margin-bottom:20px" />
+<img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/css.svg" style="margin-right: 35px;margin-bottom:20px" />
 
-<img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/mysql.svg" style="margin-right: 35px;margin-bottom:20px" />
+<img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/mysql.svg" style="margin-right: 35px;margin-bottom:20px" />
 
-<img align="left" alt="postgresql" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/postgresql.svg" style="margin-right: 35px;margin-bottom:20px" />
+<img align="left" alt="postgresql" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/postgresql.svg" style="margin-right: 35px;margin-bottom:20px" />
 
-<img align="left" alt="mongodb" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/develop/src/assets/img/skills/mongodb.svg" style="margin-right: 35px;margin-bottom:20px" 
+<img align="left" alt="mongodb" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/mongodb.svg" style="margin-right: 35px;margin-bottom:20px" 
  />
 
