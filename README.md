@@ -24,8 +24,6 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojasarmando&count_private=true&theme=dark&layout=compact&langs_count=100&hide=hack,makefile,shell,batchfile,xslt,tsql,scss,css,html,coffeescript)](https://github.com/rojasarmando)
-
 
 ## 🌐 My Skills
 
@@ -57,4 +55,9 @@
 
 <img align="left" alt="mongodb" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/mongodb.svg" style="margin-right: 35px;margin-bottom:20px" 
  />
+
+ <br /><br /><br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojasarmando&count_private=true&theme=dark&layout=compact&langs_count=100&hide=hack,makefile,shell,batchfile,xslt,tsql,scss,css,html,coffeescript)](https://github.com/rojasarmando)
+
 
