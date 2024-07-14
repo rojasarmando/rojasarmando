@@ -1,4 +1,4 @@
-# Hi! my name is Armando Rojas 👋
+# Hi! i'am Armando Rojas 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Systems+Engineer+and...;+Full+Stack+Developer)](https://git.io/typing-svg)
 
