@@ -1,6 +1,7 @@
 # Hi! my name is Armando Rojas 👋
 
-## I'm Systems Engineer and Full Stack Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Systems+Engineer+and...;+Full+Stack+Developer)](https://git.io/typing-svg)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-rojasarmando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rojasarmando/)](https://www.linkedin.com/in/rojasarmando/)
 [![Github Badge](https://img.shields.io/badge/-rojasarmando-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rojasarmando/rojasarmando)](https://github.com/rojasarmando/rojasarmando)
