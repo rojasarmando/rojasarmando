@@ -59,7 +59,7 @@
 
  <br /><br /><br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojasarmando&count_private=true&theme=dark&layout=compact&langs_count=100&hide=hack,makefile,shell,batchfile,xslt,tsql,scss,css,html,coffeescript)](https://github.com/rojasarmando)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojasarmando&count_private=true&theme=dark&layout=compact&langs_count=100&hide=ruby,dart,hack,makefile,shell,rust,java,batchfile,xslt,tsql,scss,css,html,coffeescript)](https://github.com/rojasarmando)
 
 
 
