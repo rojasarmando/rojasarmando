@@ -1,77 +1,93 @@
-# Hi! i'am Armando Rojas 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Systems+Engineer+and...;+Full+Stack+Developer)](https://git.io/typing-svg)
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-rojasarmando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rojasarmando/)](https://www.linkedin.com/in/rojasarmando/)
-[![Github Badge](https://img.shields.io/badge/-rojasarmando-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rojasarmando/rojasarmando)](https://github.com/rojasarmando/rojasarmando)
-[![Gmail Badge](https://img.shields.io/badge/-armando.develop-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:armando.develop@gmail.com)](mailto:armando.develop@gmail.com)
-
-## 🌏 [Website](https://rojasarmando.com)
-
-###  [https://rojasarmando.vercel.app/](https://rojasarmando.vercel.app/)
-
-
-
-
-[![Logo SVG](https://i.ibb.co/W2HpB90/AR.gif)](https://rojasarmando.com)
-
-
-# Contributions
-
-<p  >
-    <a href="https://gitstats.me/rojasarmando" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=rojasarmando&hide=contribs,issues&theme=dark&count_private=true&include_all_commits=true&show_icons=true">
-    </a>
-</p>
-
-
-## 🌐 My Skills
-
-
-
-<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/python.svg"  style="margin-right: 35px;margin-bottom:20px"  />
-
-<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/php.svg" style="margin-right: 35px;margin-bottom:20px"  />
-
-<img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/laravel.svg" style="margin-right: 35px; margin-bottom:20px" 
- />
-
-<img align="left" alt="nodejs" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/nodejs.svg" style="margin-right: 35px;margin-bottom:20px"  />
-
-<img align="left" alt="angular" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/angular.svg" style="margin-right: 35px;margin-bottom:20px" 
- />
-
-<img align="left" alt="vue" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/vue.svg" style="margin-right: 35px;margin-bottom:20px"  />
-
-<img align="left" alt="ionic" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/ionic.svg" style="margin-right: 35px;margin-bottom:20px"  />
-
-<img align="left" alt="html5" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/html.svg" style="margin-right: 35px;margin-bottom:20px"   />
-
-<img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/css.svg" style="margin-right: 35px;margin-bottom:20px" />
-
-<img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/mysql.svg" style="margin-right: 35px;margin-bottom:20px" />
-
-<img align="left" alt="postgresql" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/postgresql.svg" style="margin-right: 35px;margin-bottom:20px" />
-
-<img align="left" alt="mongodb" width="50px" src="https://raw.githubusercontent.com/rojasarmando/portafolio/master/src/assets/img/skills/mongodb.svg" style="margin-right: 35px;margin-bottom:20px" 
- />
-
- <br /><br /><br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojasarmando&count_private=true&theme=dark&layout=compact&langs_count=100&hide=ruby,dart,hack,makefile,shell,rust,java,batchfile,xslt,tsql,scss,css,html,coffeescript)](https://github.com/rojasarmando)
-
-
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="40" /> Armando Rojas | Full-Stack Architect 2026
 
 <div align="center">
-  <br />
-  <p align="centre"><b>Visitors Count</b></p>
-  <p align="center">
-    <img
-      align="center"
-      src="https://profile-counter.glitch.me/{rojasarmando}/count.svg"
-    />
-  </p>
-  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+the+Future+of+ERP+with+Odoo;High-Performance+FastAPI+Systems;Scalable+Architectures+with+Python;Crafting+Experiences+in+React" alt="Typing SVG" />
 </div>
+
+---
+
+### 🚀 Mission Control
+<div align="center">
+  <a href="https://www.linkedin.com/in/rojasarmando/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/rojasarmando"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:armando.develop@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://rojasarmando.com"><img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://youtu.be/zRduTPdv_jE">
+    <img src="https://img.youtube.com/vi/zRduTPdv_jE/maxresdefault.jpg" width="400" alt="Watch the video" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Core Technology Stack
+
+<div align="center">
+  <img src="https://www.odoo.com/web/image/website/1/favicon" width="48" height="48" alt="Odoo" style="margin: 0 4px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker&theme=dark" />
+  </a>
+</div>
+
+> [!NOTE]
+> **Enterprise Solutions:** Leading development in **Odoo ERP** ecosystems with advanced Python integration.
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.odoo.com/web/image/website/1/favicon" width="40" height="40" alt="Odoo" />
+      <br />Odoo
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
+      <br />FastAPI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="Postgres" />
+      <br />Postgres
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br />Docker
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Intelligence Center [System Metrics]
+
+<div align="center">
+  <img src="https://img.shields.io/github/stars/rojasarmando?style=for-the-badge&logo=github&color=2196F3&labelColor=181717" alt="Total Stars" />
+  <img src="https://img.shields.io/github/forks/rojasarmando?style=for-the-badge&logo=github&color=2196F3&labelColor=181717" alt="Total Forks" />
+  <img src="https://img.shields.io/github/followers/rojasarmando?style=for-the-badge&logo=github&color=2196F3&labelColor=181717" alt="Followers" />
+</div>
+
+<br />
+
+
+
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rojasarmando&label=PROFILE+VIEWS&color=2196F3&style=flat" alt="Visitors Count" />
+  <br />
+  <small>System initialized. Monitoring since installation.</small>
+</div>
+
 
