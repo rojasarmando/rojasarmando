@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="40" /> Armando Rojas | Full-Stack Architect 2026
+# Armando Rojas | Senior Backend Engineer (Python) | Odoo ERP | APIs, Microservices & Integrations
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+the+Future+of+ERP+with+Odoo;High-Performance+FastAPI+Systems;Scalable+Architectures+with+Python;Crafting+Experiences+in+React" alt="Typing SVG" />
